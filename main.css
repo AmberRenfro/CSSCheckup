@@ -1,0 +1,12 @@
+#number-one {
+    border-style: solid; 
+    font-style: italic;
+    margin: 6px 6px 6px 6px;
+    padding: 3px 3px 3px 3px;
+    border-width: 10px;
+    text-align: center;
+
+}
+.Css-classes {
+    background-color: cyan;
+}
